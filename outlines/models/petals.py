@@ -1,5 +1,5 @@
 from typing import Optional
-from outlines.transformers import TransformersTokenizer, Transformers
+from outlines.models.transformers import TransformersTokenizer, Transformers
 
 __all__ = ["petals"]
 

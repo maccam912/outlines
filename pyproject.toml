@@ -35,6 +35,7 @@ dependencies = [
    "scipy",
    "tenacity",
    "torch",
+   "petals @ git+https://github.com/maccam912/petals",
 ]
 dynamic = ["version"]
 
